@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😎 , I'm Sachira Madhushan</h1>
-<h3>👨‍💻 Developing 👨‍💻</h3>
+<h3 align="center">👨‍💻 Developing 👨‍💻</h3>
 
 <center><img align="center" src="https://www.linkpicture.com/q/Remini20220128204839411.jpg" alt="sachira" /></center>
 
