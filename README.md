@@ -4,7 +4,7 @@
 <center><img align="center" src="https://www.linkpicture.com/q/Remini20220128204839411.jpg" alt="sachira" /></center>
 
 <h3 align="center">
-  I'm a Computer Science student, Eastern University of Sri Lanka. Also a programmer,Youtuber,Graphic designer and Video editor. Interested in application development. I have studied
+  I'm a Computer Science student, Eastern University of Sri Lanka. Also a programmer,Youtuber,Graphic designer and Video editor.Interested in application development.I'm following a game development mini degree at ceylon school of game design.I have studied
   Computer Science, Unity Game Development, Android App Development and Web app development. 
 </h3>
 
