@@ -6,9 +6,9 @@
   I'm Sachira Madhushan, currently pursuing a BSc in Computer Science at the Eastern University of Sri Lanka and a Bachelor of Information Technology at UCSC. Also following the Game Development Mini Degree course at Ceylon School Of Game Design.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachira-madhushan&label=Profile%20views&color=0e75b6&style=flat" alt="sachira-madhushan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sachira-madhushan&label=Profile%20views&color=0e75b6&style=flat" alt="sachira-madhushan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachira-madhushan" alt="sachira-madhushan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachira-madhushan" alt="sachira-madhushan" /></a> </p>
 
 - 🔭 I’m currently working on [bloodme.lk](https://bloodme.lk/)
 
