@@ -37,7 +37,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachira-madhushan&show_icons=true&locale=en&layout=compact" alt="sachira-madhushan" width="100%"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachira-madhushan&show_icons=true&locale=en" alt="sachira-madhushan" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachira-madhushan&show_icons=true&locale=en" alt="sachira-madhushan" width="100%"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachira-madhushan&" alt="sachira-madhushan" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachira-madhushan&" alt="sachira-madhushan" width="100%"/>
 
