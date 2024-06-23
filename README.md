@@ -1,14 +1,12 @@
-<h1 align="center">Hi 😎 , I'm Sachira Madhushan</h1>
+<h1 align="center">Hi Developers, I'm Sachira Madhushan</h1>
 <h3 align="center">👨‍💻 Developing 👨‍💻</h3>
-
 <center><img align="center" src="https://github.com/sachira-madhushan/sachira-madhushan/blob/main/IMG_E4607.JPG" alt="sachira" /></center>
 
 <h3 align="center">
   I'm a Computer Science student, Eastern University of Sri Lanka. Also a programmer,Youtuber,Graphic designer and Video editor.Interested in application development.I'm following a game development mini degree at ceylon school of game design.I have studied
   Computer Science, Unity Game Development, Android App Development and Web app development. 
 </h3>
-<h1 align="center">Hi Developers, I'm Sachira Madhushan</h1>
-<h3 align="center">👨‍💻 Developing 👨‍💻</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachira-madhushan&label=Profile%20views&color=0e75b6&style=flat" alt="sachira-madhushan" /> </p>
 
