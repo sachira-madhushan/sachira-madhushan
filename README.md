@@ -35,9 +35,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/e404develow"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/e404develow" /></a></p><br><br>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachira-madhushan&show_icons=true&locale=en&layout=compact" alt="sachira-madhushan" /></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachira-madhushan&show_icons=true&locale=en&layout=compact" alt="sachira-madhushan" />
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachira-madhushan&show_icons=true&locale=en" alt="sachira-madhushan" /></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachira-madhushan&show_icons=true&locale=en" alt="sachira-madhushan" />
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachira-madhushan&" alt="sachira-madhushan" /></div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachira-madhushan&" alt="sachira-madhushan" />
 
