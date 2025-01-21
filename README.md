@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [bloodme.lk](https://bloodme.lk/)
 
-- 🌱 I’m currently learning **MERN Stack And Laravel**
+- 🌱 I’m currently learning **Spring Boot and ASP.net**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dev-sachira-madhushan/](https://www.linkedin.com/in/dev-sachira-madhushan/)
 
