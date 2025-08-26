@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachira-madhushan&label=Profile%20views&color=0e75b6&style=flat" alt="sachira-madhushan" /> </p>
 
-<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=sachira-madhushan)](https://github.com/ryo-ma/github-profile-trophy) </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sachira-madhushan)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [bloodme.lk](https://bloodme.lk/)
 
@@ -40,5 +40,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sachira-madhushan&show_icons=true&locale=en&theme=dark" alt="sachira-madhushan" width="100%"/>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachira-madhushan&theme=dark" alt="sachira-madhushan" width="100%"/>
+
 
 
