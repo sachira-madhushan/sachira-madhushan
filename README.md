@@ -72,11 +72,12 @@ I am a highly driven **Senior Software Engineer** holding a unique **Double Degr
 
 ---
 
-### 📊 Engineering Metrics
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sachira-madhushan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sachira-madhushan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sachira-madhushan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sachira-madhushan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
 </p>
 
 <p align="center">
