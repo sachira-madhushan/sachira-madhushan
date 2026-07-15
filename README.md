@@ -4,7 +4,7 @@
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=950&lines=%24+whoami;Sachira+Madhushan;Senior+Software+Engineer+%26+CTO;Double+Degree+Holder;BSc.+Computer+Science+(EUSL)+%7C+Bachelor+of+Information+Technology+(UCSC);Clean+Architecture+Advocate;2%2B+Years+of+Industry+Experience;15%2B+Years+Passion+for+Technology;Building+Scalable+Software;Use+AI+as+an+assistant%2C+not+a+servant." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00BFFF&center=true&vCenter=true&width=950&lines=%24+whoami;Sachira+Madhushan;Lead+Software+Engineer+%26+CTO;Double+Degree+Holder;BSc.+Computer+Science+(EUSL)+%7C+Bachelor+of+Information+Technology+(UCSC);Clean+Architecture+Advocate;2%2B+Years+of+Industry+Experience;15%2B+Years+Passion+for+Technology;Building+Scalable+Software;Use+AI+as+an+assistant%2C+not+a+servant." alt="Typing SVG" />
 </a>
 <p align="center">
   <a href="https://linkedin.com/in/dev-sachira-madhushan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
