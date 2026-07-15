@@ -80,9 +80,7 @@ I am a highly driven **Senior Software Engineer** holding a unique **Double Degr
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sachira-madhushan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachira-madhushan&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:60A5FA,100:2563EB&height=140&section=footer" width="100%" alt="footer" />
 
 ---
 
