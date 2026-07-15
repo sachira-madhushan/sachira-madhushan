@@ -23,7 +23,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></br>
 
-I am a highly driven **Senior Software Engineer** holding a unique **Double Degree (First Class Honors)** background. I blend academic rigor in theoretical computer science with practical application delivery to build robust, scalable architectures and rich interactive experiences.
+I am a highly driven **Lead Software Engineer** holding a unique **Double Degree (First Class Honors)** background. I blend academic rigor in theoretical computer science with practical application delivery to build robust, scalable architectures and rich interactive experiences.
 
 - 🎓 **BSc (Hons) in Computer Science** — Eastern University of Sri Lanka *(First Class)*
 - 🎓 **Bachelor of Information Technology (BIT)** — University of Colombo School of Computing (UCSC)
