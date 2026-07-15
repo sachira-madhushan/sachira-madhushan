@@ -17,7 +17,11 @@
   <img src="https://komarev.com/ghpvc/?username=sachira-madhushan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding animation" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></br>
 
 I am a highly driven **Senior Software Engineer** holding a unique **Double Degree (First Class Honors)** background. I blend academic rigor in theoretical computer science with practical application delivery to build robust, scalable architectures and rich interactive experiences.
 
@@ -28,6 +32,7 @@ I am a highly driven **Senior Software Engineer** holding a unique **Double Degr
 - 🔭 **Current Focus** — Driving engineering efforts at **[bloodme.lk](https://bloodme.lk/)**
 
 ---
+
 
 <table>
 <tr>
@@ -159,12 +164,16 @@ I am a highly driven **Senior Software Engineer** holding a unique **Double Degr
 
 <br>
 
+
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prolog-CC0000?style=for-the-badge"/>
 
 </div>
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding animation" />
+</p>
+</br>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=sachira-madhushan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
