@@ -92,3 +92,5 @@ I am always keen to participate in system design deep dives, open-source archite
 
 - 💬 **Ask me about:** Clean Architecture, Domain-Driven Design (DDD), Web API performance optimization, or cross-platform graphics.
 - 🎯 **Portfolio Highlights:** Feel free to explore my structured professional history and engineering case studies directly via **[LinkedIn](https://www.linkedin.com/in/dev-sachira-madhushan/)**.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" alt="footer" />
