@@ -1,16 +1,8 @@
-<!-- Animated Wave Header -->
+<!-- Header Block -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f005c,50:9c1de7,100:00c3ff&height=280&section=header&text=Sachira%20Madhushan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Game%20Dev&descAlignY=58&descSize=20" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sachira%20Madhushan&subtitle=Senior%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Game%20Dev&theme=dark&fontSize=40&fontAlignY=45" width="100%" alt="Header" />
 </p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9C1DE7&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Crafting+immersive+game+experiences+%F0%9F%8E%AE;Clean+Architecture+%7C+DDD+%7C+Full-Stack;Currently+engineering+at+bloodme.lk+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/dev-sachira-madhushan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sachiramadhushan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -19,21 +11,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachira-madhushan&label=Profile%20Views&color=9c1de7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Experience&query=%24.years&suffix=%2B%20Years&url=&style=for-the-badge&logo=briefcase" alt="Experience" />
-</p>
-
-<!-- Coding GIF banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub-Dark.svg" width="0" alt="" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" alt="Coding animation" />
+  <img src="https://komarev.com/ghpvc/?username=sachira-madhushan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🚀 About Me
-
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding gif" />
 
 I am a highly driven **Senior Software Engineer** holding a unique **Double Degree (First Class Honors)** background. I blend academic rigor in theoretical computer science with practical application delivery to build robust, scalable architectures and rich interactive experiences.
 
@@ -42,71 +25,70 @@ I am a highly driven **Senior Software Engineer** holding a unique **Double Degr
 - 🎮 **Game Development Specialist** — Certified by the Ceylon School Of Game Design
 - 💼 **Industry Footprint** — 2+ Years of impactful enterprise software engineering experience
 - 🔭 **Current Focus** — Driving engineering efforts at **[bloodme.lk](https://bloodme.lk/)**
-- 💬 **Ask me about** — Clean Architecture, Domain-Driven Design (DDD), Web API performance, cross-platform graphics
-- ⚡ **Fun fact** — I ship code by day and design game worlds by night
-
-<br clear="right"/>
 
 ---
 
 ### 🛠️ Core Stack & Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,php&theme=dark" alt="Backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,tailwind,kotlin&theme=dark" alt="Frontend & Mobile" /><br/>
-  <img src="https://skillicons.dev/icons?i=unity,unrealengine,opencv,blender&theme=dark" alt="Game Dev & Graphics" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,mongodb,mysql,firebase&theme=dark" alt="Infra & Data" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      🔎 <b>Backend Engines</b>
+      <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" /><br/>
+      <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt="ASP.NET Core" /><br/>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /><br/>
+      <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /><br/>
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    </td>
+    <td valign="top" width="25%">
+      🎨 <b>Frontend & Mobile</b>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /><br/>
+      <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" /><br/>
+      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /><br/>
+      <img src="https://img.shields.io/badge/-Android%20Native-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /><br/>
+      <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+    </td>
+    <td valign="top" width="25%">
+      🕹️ <b>Game Dev & Graphics</b>
+      <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" /><br/>
+      <img src="https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" /><br/>
+      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /><br/>
+      <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+    </td>
+    <td valign="top" width="25%">
+      ⚙️ <b>Infrastructure & Data</b>
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /><br/>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br/>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /><br/>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br/>
+      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    </td>
+  </tr>
+</table>
 
 ### 💻 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,dart,js,kotlin,bash&theme=dark" alt="Languages" />
-</p>
+`Python` • `Java` • `C#` • `C++` • `C` • `Dart` • `JavaScript` • `Kotlin` • `Bash`
 
 ---
 
-### 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachira-madhushan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachira-madhushan&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sachira-madhushan&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachira-madhushan&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sachira-madhushan&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachira-madhushan&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachira-madhushan&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sachira-madhushan/sachira-madhushan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake animation" />
-</p>
-
-> ℹ️ To activate the snake animation above, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to this repo — it auto-generates `github-contribution-grid-snake-dark.svg` on the `output` branch daily.
 
 ---
 
 ### 🤝 Let's Collaborate
 
-<img align="left" width="150" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ba.gif" alt="Handshake gif" />
+I am always keen to participate in system design deep dives, open-source architectures, or innovative game engineering ventures.
 
-I am always keen to participate in system design deep dives, open-source architectures, or innovative game engineering ventures. Whether it's a scalable backend, a slick mobile app, or a game world waiting to be built — let's talk.
-
-📌 Explore my structured professional history and engineering case studies via **[LinkedIn](https://www.linkedin.com/in/dev-sachira-madhushan/)**.
-
-<br clear="left"/>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,50:9c1de7,100:1f005c&height=150&section=footer" width="100%" alt="Footer" />
-</p>
-
-<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repositories!</i></p>
+- 💬 **Ask me about:** Clean Architecture, Domain-Driven Design (DDD), Web API performance optimization, or cross-platform graphics.
+- 🎯 **Portfolio Highlights:** Feel free to explore my structured professional history and engineering case studies directly via **[LinkedIn](https://www.linkedin.com/in/dev-sachira-madhushan/)**.
