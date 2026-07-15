@@ -34,7 +34,7 @@ I am a highly driven **Senior Software Engineer** holding a unique **Double Degr
 ---
 
 
-<table>
+<table width="100%" align="center">
 <tr>
 <td valign="top" width="25%">
 
